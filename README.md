@@ -7,18 +7,22 @@
 🔹 Tenho experiência em projetos de Pesquisa & Desenvolvimento (P&D), onde já atuei no desenvolvimento de sistemas web e mobile, além de jogos para dispositivos móveis.
 
 🔧 Principais Tecnologias:
+
 📌 Front-End: HTML, CSS, JavaScript, TypeScript, React.js, React Native
+
 📌 Back-End: Node.js, Express.js, MySQL
+
 📌 Game Dev: Unity, C#, JavaScript
+
 📌 Outras Tecnologias: MQTT, Arduino, NodeMCU
 
 📂 Projetos em Destaque:
 
-    🔹 Nome do Projeto 1 – Breve descrição do projeto
-    🔹 Nome do Projeto 2 – Breve descrição do projeto
-    🔹 Nome do Projeto 3 – Breve descrição do projeto
+    🔹 tccprojeto -  App em React Native e Node.js para monitoração de energia elétrica em um residência utilizando NodeMCU.
+    🔹 first-game-blockchain - Um fork de jogo em Unity onde procurei aplicar um sistema de blockchain usando Ethereum.
+    🔹 sitema-recomendacao – Um sistema desenvolvido em classe para recomendação de trailers de jogos utilizando Python.
 
 💡 Atualmente estudando:
 
-  📌 Melhorando minhas habilidades em Front-End
-  📌 Aprendendo mais sobre desenvolvimento de jogos com Unity
+      📌 Melhorando minhas habilidades em Front-End
+      📌 Aprendendo mais sobre desenvolvimento de jogos com Unity
