@@ -1,18 +1,24 @@
-## Hi there 👋
+👋 Hello there! Eu sou Gabriel Teixeira
 
-<!--
-**gabrielalextx/gabrielalextx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Front-End & Entusiasta em Desenvolvimento de Jogos
 
-Here are some ideas to get you started:
+🎯 Apaixonado por tecnologia, desenvolvimento web e criação de jogos digitais. Atualmente, estou aprimorando minhas habilidades em React.js, JavaScript, Node.js e explorando o desenvolvimento de games com Unity e C#.
 
-Bacharel em Sistemas de Informação pela Universidade do Estado do Amazonas, atualmente trabalhando com Front-End.
+🔹 Tenho experiência em projetos de Pesquisa & Desenvolvimento (P&D), onde já atuei no desenvolvimento de sistemas web e mobile, além de jogos para dispositivos móveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 Atualmente estudando Javascript, HTML, CSS e React para melhorar minhas habilidades
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Meus contatos: gabriel.alextx@gmail.com / 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Principais Tecnologias:
+📌 Front-End: HTML, CSS, JavaScript, TypeScript, React.js, React Native
+📌 Back-End: Node.js, Express.js, MySQL
+📌 Game Dev: Unity, C#, JavaScript
+📌 Outras Tecnologias: MQTT, Arduino, NodeMCU
+
+📂 Projetos em Destaque:
+
+    🔹 Nome do Projeto 1 – Breve descrição do projeto
+    🔹 Nome do Projeto 2 – Breve descrição do projeto
+    🔹 Nome do Projeto 3 – Breve descrição do projeto
+
+💡 Atualmente estudando:
+
+  📌 Melhorando minhas habilidades em Front-End
+  📌 Aprendendo mais sobre desenvolvimento de jogos com Unity
