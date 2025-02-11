@@ -1,4 +1,4 @@
-👋 Hello there! Eu sou Gabriel Teixeira
+👋 Hello there! Eu sou Gabriel Teixeira, prazer!
 
 🚀 Desenvolvedor Front-End & Entusiasta em Desenvolvimento de Jogos
 
