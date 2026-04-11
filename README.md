@@ -26,3 +26,4 @@
 
       📌 Melhorando minhas habilidades em Front-End
       📌 Aprendendo mais sobre desenvolvimento de jogos com Unity
+      📌 Participando como estudante Bolsista do Projeto UFAM Web Academy
